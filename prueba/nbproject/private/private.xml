@@ -2,6 +2,22 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/andrea/Documents/NetBeansProjects/prueba/src/java/Modelo/Conexiones.java</file>
+            <file>file:/C:/Users/andrea/Documents/NetBeansProjects/prueba/src/java/Persistencia/ConexionesDao.java</file>
+            <file>file:/C:/Users/andrea/Documents/NetBeansProjects/prueba/src/java/Modelo/Ubicaciones.java</file>
+            <file>file:/C:/Users/andrea/Documents/NetBeansProjects/prueba/web/principal.jsp</file>
+            <file>file:/C:/Users/andrea/Documents/NetBeansProjects/prueba/web/ubication.json</file>
+            <file>file:/C:/Users/andrea/Documents/NetBeansProjects/prueba/src/java/Controlador/Controlador.java</file>
+            <file>file:/C:/Users/andrea/Documents/NetBeansProjects/prueba/src/java/Modelo/Usuarios.java</file>
+            <file>file:/C:/Users/andrea/Documents/NetBeansProjects/prueba/web/login.jsp</file>
+            <file>file:/C:/Users/andrea/Documents/NetBeansProjects/prueba/src/java/Modelo/Json.java</file>
+            <file>file:/C:/Users/andrea/Documents/NetBeansProjects/prueba/src/java/Controlador/ControladorLogin.java</file>
+            <file>file:/C:/Users/andrea/Documents/NetBeansProjects/prueba/src/java/Persistencia/UbicacionesDao.java</file>
+            <file>file:/C:/Users/andrea/Documents/NetBeansProjects/prueba/src/java/Persistencia/Conexion.java</file>
+            <file>file:/C:/Users/andrea/Documents/NetBeansProjects/prueba/src/java/Modelo/Perfil.java</file>
+            <file>file:/C:/Users/andrea/Documents/NetBeansProjects/prueba/web/index.jsp</file>
+            <file>file:/C:/Users/andrea/Documents/NetBeansProjects/prueba/web/puntos.jsp</file>
+        </group>
     </open-files>
 </project-private>

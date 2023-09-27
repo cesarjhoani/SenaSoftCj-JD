@@ -42,12 +42,12 @@ public class Controlador extends HttpServlet {
             int punto1 = Integer.parseInt(request.getParameter("punto1"));
             int punto2 = Integer.parseInt(request.getParameter("punto2"));
             int punto3 = Integer.parseInt(request.getParameter("punto3"));
-            int punto4 = Integer.parseInt(request.getParameter("punto4"));
+            
             //int punto3 = Integer.parseInt(request.getParameter("punto3"));
            request.setAttribute("p1", punto1);
            request.setAttribute("p2", punto2);
            request.setAttribute("p3", punto3);
-           request.setAttribute("p4", punto4);
+           
            //request.setAttribute("p3", punto3);
         request.getRequestDispatcher("index.jsp").forward(request, response); 
         }

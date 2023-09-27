@@ -9,7 +9,7 @@ package Modelo;
  * @author andrea
  */
 public class Conexiones {
-
+    private int id; 
     private String ubicacion1;
     private String ubicacion2;
     private int peso;
@@ -17,11 +17,22 @@ public class Conexiones {
     public Conexiones() {
     }
 
-    public Conexiones(String ubicacion1, String ubicacion2, int peso) {
+    public Conexiones(int id, String ubicacion1, String ubicacion2, int peso) {
+        this.id = id;
         this.ubicacion1 = ubicacion1;
         this.ubicacion2 = ubicacion2;
         this.peso = peso;
     }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    
     
 
     public String getUbicacion1() {
